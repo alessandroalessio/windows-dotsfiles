@@ -13,3 +13,15 @@ ECHO
 
 :: VS Code
 scoop install vscode
+
+:: Git
+scoop install git
+
+:: PHP 7.4
+scoop install php7.4
+
+:: Composer
+scoop install composer
+
+:: Node JS
+scoop install nodejs
